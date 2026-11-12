@@ -26,8 +26,6 @@ southern Switzerland.
   [GDARS](https://saphyrion.ch/products/gnss-instruments/gdars/),
   [GDAS-2D](https://saphyrion.ch/products/gnss-instruments/gdas-2d/),
   [GDAS-2S](https://saphyrion.ch/products/gnss-instruments/gdas-2s/)
-- **[Complete systems](https://saphyrion.ch/products/complete-systems/)**:
-  [AGMS-K5](https://saphyrion.ch/products/complete-systems/agms-k5/)
 
 ## Services
 
